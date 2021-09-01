@@ -1,60 +1,72 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Wheelin' & Mealin' ",
+    subtitle: "Capstone Game Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This is my Capstone Game Project I produced with 29 Developers. Dive into a wacky world of driving and cooking and live out your resturaunt dreams!",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://feashu.github.io/Wheelin-Mealin",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Software Engineer Internship",
+    subtitle: "Summer 2021 @ WarnerMedia Innovation Lab & AT&T",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Learn about my work at the WarnerMedia Innovation Lab",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://feashu.github.io/2021-ATT-Internship",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "SoCal Fall Festival, Snowdown, Flowerfest, & Summer Splash",
+    subtitle: "Esports Festival",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A series of esport & gaming festivals held over the course of 2020-2021 during the COVID-19 Pandemic",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Food Hero",
+    subtitle: "UI/UX Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "UI Design of a hrocery Shopping & Fridge Organizing Mobile App",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
   },
 ];
 
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "C++",
+  "C",
+  "Python",
+  "Java",
+  "HTML",
+  "CSS",
+  "Unity (C#)",
+  "SQL",
+  "Arduino",
+  "SDL",
+  "SFML",
+  "OpenGL",
+  "GDB",
+  "Valgrind",
+  "CMake",
+  "Git",
+  "Google Cloud",
+  "Perforce",
+  "Jira",
+  "Google Suite",
+  "Microsoft Office",
+  "AWS",
+  "Adobe Creative",
+  "Adobe XD",
+  "Sony Vegas",
+  "Autodesk Maya",
+  "Autodesk Inventor",
+  "Figma",
+  "User Research", 
+  "Usability Testing"
+
+
+
 ];
